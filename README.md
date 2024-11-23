@@ -1,4 +1,4 @@
-# Dual-scale Transformer Based on Masked Self-supervised Pretraining for Hyperspectral Image Classification
+# MSDT:Dual-scale Transformer Based on Masked Self-supervised Pretraining for Hyperspectral Image Classification
 
 ## Main Environment
 The version requirements are not strict. If any issues arise during execution, you can change the package versions. The `requirements.txt` file contains more detailed version dependency information. You can use `conda install` to quickly set up the environment (though it might not always work).
