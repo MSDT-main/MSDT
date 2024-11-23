@@ -10,7 +10,7 @@ The version requirements are not strict. If any issues arise during execution, y
 - **Matplotlib**: 3.8.0
 
 ## Framework
-![img.png](img.png)
+![img_1.png](img_1.png)
 ## Parameter Declarations
 - `patch_size`: Size of the pixel neighborhood block.
 - `class_num`: Number of classes in the dataset.
